@@ -5,6 +5,7 @@ export default function Home() {
     <div>
       <h1>This is Home Page.</h1>
       <p>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a
           href="https://daisyui202507050418nextreact.vercel.app"
           className="btn btn-ghost text-xl"
@@ -15,6 +16,7 @@ export default function Home() {
       </p>
 
       <h5>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a
           href="https://daisyui202507050418nextreact.netlify.app/"
           className="btn btn-ghost text-xl"
@@ -29,6 +31,7 @@ export default function Home() {
         />
       </h5>
       <h3>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a
           href="https://daisyui202507050418nextreact.onrender.com"
           className="btn btn-ghost text-xl"
@@ -39,36 +42,43 @@ export default function Home() {
       </h3>
       <h1>API Test:</h1>
       <h3>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a href="/api/hello" className="btn btn-ghost text-xl">
           api hello
         </a>
       </h3>
       <h3>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a href="/api/countdown/1111" className="btn btn-ghost text-xl">
           countdown 1111
         </a>
       </h3>
       <h3>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a href="/api/countdown/202507050418" className="btn btn-ghost text-xl">
           countdown 202507050418
         </a>
       </h3>
       <h3>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a href="/api/bilibili/BV1BELHzyEMi" className="btn btn-ghost text-xl">
           bilibili BV1B~
         </a>
       </h3>
       <h3>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a href="/api/bilibili/BV1Et4y1r7Eu" className="btn btn-ghost text-xl">
           bilibili BV1E~
         </a>
       </h3>
       <h3>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a href="/api/bilibili/1111" className="btn btn-ghost text-xl">
           bilibili 1111
         </a>
       </h3>
       <h3>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a
           href="/api/bilibili/proxyimg?url=http://i1.hdslb.com/bfs/archive/b168c77ff9d280b3d9f7f8a134ddc9df9c953ec9.jpg"
           className="btn btn-ghost text-xl"
@@ -77,11 +87,13 @@ export default function Home() {
         </a>
       </h3>
       <h3>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a href="/api/firebasefood" className="btn btn-ghost text-xl">
           firebasefood
         </a>
       </h3>
       <h3>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a
           href="/api/youtube/videos/WS3sGVgkOZk"
           className="btn btn-ghost text-xl"
@@ -90,6 +102,7 @@ export default function Home() {
         </a>
       </h3>
       <h3>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a
           href="/api/youtube/channel/UCTwKpp4T5n1wyxLVf-cD4ew"
           className="btn btn-ghost text-xl"
@@ -98,6 +111,7 @@ export default function Home() {
         </a>
       </h3>
       <h3>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a
           href="/api/youtube/videos/-4ADGW7TE0Q"
           className="btn btn-ghost text-xl"
@@ -106,6 +120,7 @@ export default function Home() {
         </a>
       </h3>
       <h3>
+        {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
         <a
           href="/api/youtube/channel/UCRykoXOF-1jb0DS4P34NG6Q"
           className="btn btn-ghost text-xl"
